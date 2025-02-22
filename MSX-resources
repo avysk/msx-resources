@@ -1,0 +1,40 @@
+! White
+*.background:  #FFFFFF
+! Dark blue
+*.background:  #5955E0
+! Medium green
+*.cursorColor: #3EB849
+
+! "Black": dark blue/light blue
+*.color0:      #5955E0
+*.color8:      #8076F1
+!
+! "Red": dark red/light red
+*.color1:      #B95E51
+*.color9:      #FF897D
+!
+! "Green": dark green/light green
+*.color2:      #3AA241
+*.color10:     #74D07D
+!
+! "Yellow": dark yellow/light yellow
+*.color3:      #CCC35E
+*.color11:     #DED087
+!
+! "Blue": black/gray
+*.color4:      #000000
+*.color12:     #CCCCCC
+!
+! "Magenta": medium red/magenta
+*.color5:      #DB6559
+*.color13:     #B766B5
+!
+! "Cyan": medium green/cyan
+*.color6:      #3EB849
+*.color14:     #65DBEF
+!
+! "White": gray/white
+*.color7:      #CCCCCC
+*.color15:     #FFFFFF
+
+ ! vim:ft=xdefaults:
