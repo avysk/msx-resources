@@ -15,3 +15,5 @@ xrdb ~/.Xresources
 ```
 
 Now, if you start, say, `xterm`, it should use MSX-like colors.
+
+![xterm example](xterm.jpg)
