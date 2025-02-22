@@ -13,3 +13,5 @@ After that, run `xrdb` to apply changes:
 ```sh
 xrdb ~/.Xresources
 ```
+
+Now, if you start, say, `xterm`, it should use MSX-like colors.
